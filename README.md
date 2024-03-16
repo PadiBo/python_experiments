@@ -4,9 +4,9 @@ How to use Analyzer:
 3. if you wish to exclude IPs like local ones -> create sheet named excludeIP, name first column IP and write them down
 4. Download apache analyzer script
 5. Run Apache Analyzer
-6. 
+6. now you can see all requests logged by apache2 in rqst sheet
 
-only Sheet wich is getting changed is rqst, you can create new sheets and do something like i did and combine it with geo info
+The only sheet wich is getting changed is "rqst", you can create new sheets and do something like i did and combine it with geo info script and do some advanced analyzing.
 
 
 How to use geo Info:
