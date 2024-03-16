@@ -3,7 +3,7 @@ How to use Analyzer:
 2. Download apache analyzer script
 3. Run Apache Analyzer
 
-only Sheet wich is getting Changed is rqst, you can create new Sheets and do something like i did and combine with geo info
+only Sheet wich is getting changed is rqst, you can create new sheets and do something like i did and combine it with geo info
 
 
 How to use geo Info:
