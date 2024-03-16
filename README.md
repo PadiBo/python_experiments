@@ -1,7 +1,10 @@
 How to use Analyzer:
 1. Cereate folder
-2. Download apache analyzer script
-3. Run Apache Analyzer
+2. create overview.xlsx
+3. if you wish to exclude IPs like local ones -> create sheet named excludeIP, name first column IP and write them down
+4. Download apache analyzer script
+5. Run Apache Analyzer
+6. 
 
 only Sheet wich is getting changed is rqst, you can create new sheets and do something like i did and combine it with geo info
 
